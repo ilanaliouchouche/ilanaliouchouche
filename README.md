@@ -1,6 +1,8 @@
 <h1 align="center">Welcome ! 👋, I'm Ilan ALIOUCHOUCHE</h1>
 
-<img src="https://thumbs.gfycat.com/HideousMellowEmperorshrimp-size_restricted.gif" alt="MasterHead" style="width: 100%;">
+<p align="center">
+  <img src="https://thumbs.gfycat.com/HideousMellowEmperorshrimp-size_restricted.gif" alt="MasterHead" width="800">
+</p>
 
 <h3 align="center">🏫 A Computer Science student at Paris-Saclay University.</h3>
 
