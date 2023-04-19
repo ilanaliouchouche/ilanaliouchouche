@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/HideousMellowEmperorshrimp-size_restricted.gif)]
+![MasterHead](https://thumbs.gfycat.com/HideousMellowEmperorshrimp-size_restricted.gif)
 <h1 align="center">Welcome ! 👋, I'm Ilan ALIOUCHOUCHE</h1>
 <h3 align="center">🏫 A Computer Science student at Paris-Saclay University.</h3>
 
