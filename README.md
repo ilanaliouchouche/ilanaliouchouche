@@ -5,9 +5,9 @@
 </p>
 
 
-<h3 align="center">🏫 A Computer Science student at Paris-Saclay University.</h3>
+<h3 align="center">🏫 A Data Science student at Paris-Saclay University.</h3>
 
-- 💻 I am passionate about **AI and Data science.**
+- 💻 I am passionate about **Machine Learning/Deep Learning.**
 
 - ⚡I also love **Photography (IRL and "In Game"), hiking, football, video games.**
 
