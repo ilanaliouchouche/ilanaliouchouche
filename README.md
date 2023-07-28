@@ -1,17 +1,17 @@
-<h1 align="center">Welcome ! 👋, I'm Ilan ALIOUCHOUCHE</h1>
+<h1 align="center">Welcome ! I'm Ilan ALIOUCHOUCHE</h1>
 
 <p align="center">
   <img src="https://thumbs.gfycat.com/HideousMellowEmperorshrimp-size_restricted.gif" alt="MasterHead" width="1200">
 </p>
 
 
-<h3 align="center">🏫 A Data Science student at Paris-Saclay University.</h3>
+<h3 align="center">A Data Science student at Paris-Saclay University.</h3>
 
-- 💻 I am passionate about **Machine Learning/Deep Learning.**
+- I am passionate about **Machine Learning/Deep Learning.**
 
-- ⚡I also love **Photography (IRL and "In Game"), hiking, football, video games.**
+- I also love **Photography (IRL and "In Game"), hiking, football, video games.**
 
-- 👍You can find some of my projects on **my GitHub ⬇️.**
+- You can find some of my projects on **my GitHub ⬇️.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
