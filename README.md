@@ -1,4 +1,4 @@
-<h1 align="center">Welcome ! I'm Ilan ALIOUCHOUCHE</h1>
+<h1 align="center">I'm Ilan ALIOUCHOUCHE</h1>
 
 <p align="center">
   <img src="https://thumbs.gfycat.com/HideousMellowEmperorshrimp-size_restricted.gif" alt="MasterHead" width="1200">
