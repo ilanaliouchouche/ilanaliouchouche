@@ -9,6 +9,7 @@
 <h3 align="left">Connect with me: <img </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ilan-aliouchouche-752722277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilan aliouchouche" height="30" width="40" /></a>
+  
 <a href="https://kaggle.com/ilanaliouchouche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ilanaliouchouche" height="30" width="40" /></a>
 </p>
 
