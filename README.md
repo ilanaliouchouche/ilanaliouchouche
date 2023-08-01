@@ -3,7 +3,7 @@
 
 - I am passionate about **Machine Learning/Deep Learning** and particularly **Natural language processing (NLP)**
 
-- You can find some of my projects on **my GitHub ⬇️.**
+- You can find some of my projects on **my GitHub ⬇️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
