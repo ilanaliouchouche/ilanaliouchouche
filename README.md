@@ -1,10 +1,4 @@
 <h1 align="center">Hi I'm Ilan ALIOUCHOUCHE</h1>
-
-<p align="center">
-  <img src="https://thumbs.gfycat.com/HideousMellowEmperorshrimp-size_restricted.gif" alt="MasterHead" width="1200">
-</p>
-
-
 <h3 align="center">A Data Science student at Paris-Saclay University.</h3>
 
 - I am passionate about **Machine Learning/Deep Learning.**
