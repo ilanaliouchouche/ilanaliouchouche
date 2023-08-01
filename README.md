@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Ilan ALIOUCHOUCHE</h1>
+<h1 align="center">Hi I'm Ilan ALIOUCHOUCHE 👋</h1>
 <h3 align="center">A Data Science student at Paris-Saclay University.</h3>
 
 - I am passionate about **Machine Learning/Deep Learning.**
