@@ -1,4 +1,4 @@
-<h1 align="center"><img align="left" src="https://cutewallpaper.org/24/totoro-transparent-gif/a-billion-tastes-and-tunes-my-neighbor-totoro-animated-gifs-part-three.gif" alt="Totoro GIF" width="40" height="40"/> Welcome I'm Ilan ALIOUCHOUCHE 👋</h1>
+<h1 align="center"><img align="left" src="https://cutewallpaper.org/24/totoro-transparent-gif/totoro-gifs-wifflegif.gif" alt="Totoro GIF" width="40" height="40"/> Welcome I'm Ilan ALIOUCHOUCHE 👋</h1>
 <h3 align="left">I'm a Data Science student at Paris-Saclay University (Orsay)</h3>
 
 - I am passionate about **Machine Learning/Deep Learning** and particularly **Natural language processing (NLP)**
