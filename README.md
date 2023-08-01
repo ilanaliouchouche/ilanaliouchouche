@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://www.ihes.fr/wp-content/uploads/2019/11/logo-couleur-rvb-bd_SiteIHES.png" alt="Paris-Saclay University Logo" width="100" height="100" style="margin-left:20px;"/>Welcome I'm Ilan ALIOUCHOUCHE 👋</h1>
+<h1 align="left"> <img src="https://www.ihes.fr/wp-content/uploads/2019/11/logo-couleur-rvb-bd_SiteIHES.png" alt="Paris-Saclay University Logo" width="100" height="100" style="margin-left:20px;"/>Welcome I'm Ilan ALIOUCHOUCHE 👋</h1>
 <h3 align="left">I'm a Data Science student at Paris-Saclay University (Orsay) </h3>
 
 - I am passionate about **Machine Learning/Deep Learning** and particularly **Natural language processing (NLP)**
