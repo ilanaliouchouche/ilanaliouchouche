@@ -3,8 +3,6 @@
 
 - I am passionate about **Machine Learning/Deep Learning.**
 
-- I also love **Photography (IRL and "In Game"), hiking, football, video games.**
-
 - You can find some of my projects on **my GitHub ⬇️.**
 
 <h3 align="left">Connect with me:</h3>
