@@ -1,6 +1,6 @@
 <h1 align="center"><img align="left" src="https://cutewallpaper.org/24/totoro-transparent-gif/totoro-gifs-wifflegif.gif" alt="Totoro GIF" width="40" height="40"/> Welcome I'm Ilan ALIOUCHOUCHE <img align="right" src="https://cutewallpaper.org/24/totoro-transparent-gif/totoro-gifs-wifflegif.gif" alt="Totoro GIF2" width="40" height="40"/></h1>
 
-<h3 align="left">I'm a Data Science student at Paris-Saclay University (Orsay) </h3>
+<h3 align="left">I'm a Data Science student at Paris-Saclay University (Orsay) and also an apprentice Data Scientist at Dassault Systèmes </h3>
 
 - I am passionate about **Machine Learning/Deep Learning** and particularly **Natural language processing (NLP)**
 
