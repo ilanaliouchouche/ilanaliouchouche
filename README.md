@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome I'm Ilan ALIOUCHOUCHE </h1>
 
-<h3 align="left">I'm a Data Science student at Paris-Saclay University (Orsay) and also an apprentice Data Scientist at Dassault Systèmes. I am working  </h3>
+<h3 align="left">I'm a Data Science student at Paris-Saclay University (Orsay) and also an apprentice Data Scientist at Dassault Systèmes.  </h3>
 
 - I am passionate about **Natural language processing (NLP)**
 
