@@ -2,7 +2,7 @@
 
 <h3 align="left">I'm a Data Science student at Paris-Saclay University (Orsay) and also an apprentice Data Scientist at Dassault Systèmes </h3>
 
-- I am passionate about **Machine Learning/Deep Learning** and particularly **Natural language processing (NLP)**
+- I am passionate about **Natural language processing (NLP)**
 
 - You can find some of my projects on **my GitHub ⬇️**
 
