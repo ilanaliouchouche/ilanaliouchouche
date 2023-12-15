@@ -28,8 +28,8 @@ Email: ilan.aliouchouche@universite-paris-saclay.com
 ```
 
 <p align="left">
-    <img src="3ds.png" alt="Image Description 1" width="15%" />
-    <img src="paris-saclay.png" alt="Image Description 2" width="15%" /> 
+    <img src="3ds.png" alt="Image Description 1" width="5%" />
+    <img src="paris-saclay.png" alt="Image Description 2" width="5%" /> 
 </p>
 
 
