@@ -18,7 +18,7 @@ On branch ilanaliouchouche
 Your branch is up to date with 'origin/ilanaliouchouche'.
 
 $ cat skills.txt
-Programming: Python, Java, SQL, C
+Programming: Python, Java, SQL, C, OCaml
 Frameworks: PyTorch, Sklearn, Transformers, langchain
 Tools: Jupyter, Git, Docker, Talend, Tableau, PowerBI
 
