@@ -3,10 +3,10 @@ $ whoami
 Ilan Aliouchouche
 
 $ cat current_role.txt
-Apprentice Data Scientist at Dassault Systèmes.
+Apprentice Data Scientist @ Dassault Systèmes.
 
 $ cat education.txt
-Data Science Student at Paris-Saclay University(Orsay).
+Data Science Student @ Paris-Saclay University(Orsay).
 
 $ ls current_personal_projects/
 transhell
