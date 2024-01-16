@@ -1,4 +1,5 @@
 ```bash
+$ cat presentation.txt
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @__        __     _                                _         @
 @\ \      / /___ | |  ___  ___   _ __ ___    ___  | |_  ___  @
@@ -13,7 +14,6 @@
 @            |___/                                           @
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-
 $ whoami
 Ilan Aliouchouche
 
@@ -27,10 +27,6 @@ $ ls current_personal_projects/
 transhell
 lol-statistics
 senscritique-timereal-dataset
-
-$ git status
-On branch ilanaliouchouche
-Your branch is up to date with 'origin/ilanaliouchouche'.
 
 $ cat skills.txt
 Programming: Python, Java, SQL, C, OCaml
