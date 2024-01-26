@@ -34,8 +34,6 @@ Data Science Student @ Paris-Saclay University(Orsay).
 
 $ ls current_personal_projects/
 transhell
-lol-statistics
-senscritique-weeklyreal-database
 
 $ cat skills.txt
 Programming: Python, Java, SQL, C, OCaml
