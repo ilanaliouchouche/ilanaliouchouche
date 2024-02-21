@@ -7,15 +7,15 @@ $ cat current_role.txt
 Apprentice Data Scientist @ Dassault Systèmes.
 
 $ cat education.txt
-Data Science Student @ Paris-Saclay University(Orsay).
+Data Science Student @ Paris-Saclay University (Orsay).
 
 $ ls current_personal_projects/
-transhell
+""
 
 $ cat skills.txt
 Programming: Python, Java, SQL, C, OCaml
-Frameworks: PyTorch, Sklearn, Transformers, langchain
-Tools: Jupyter, Git, Docker, Talend, Tableau, PowerBI
+Frameworks: PyTorch, sklearn, transformers, langchain
+Tools: Jupyter, Git, Docker, Talend, Tableau, PowerBI, Kubernetes
 
 $ ./connect_with_me.sh
 LinkedIn: https://www.linkedin.com/in/ilan-aliouchouche-752722277
