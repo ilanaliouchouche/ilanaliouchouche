@@ -1,10 +1,10 @@
 
 ```bash
 $ whoami
-Ilan Aliouchouche
+Ilan Aliouchouche, NLP enthusiast
 
 $ cat current_role.txt
-Apprentice Data Scientist @ Dassault Systèmes.
+Apprentice AI Research Scientist @ Dassault Systèmes.
 
 $ cat education.txt
 Data Science Student @ Paris-Saclay University (Orsay).
@@ -13,8 +13,8 @@ $ ls current_personal_projects/
 ""
 
 $ cat skills.txt
-Programming: Python, Java, SQL, C, OCaml
-Frameworks: PyTorch, sklearn, transformers, langchain
+Programming: Python, Java, SQL, C, OCaml, Rust
+Frameworks: PyTorch, sklearn, transformers, langchain, spark
 Tools: Jupyter, Git, Docker, Talend, Tableau, PowerBI, Kubernetes
 
 $ ./connect_with_me.sh
