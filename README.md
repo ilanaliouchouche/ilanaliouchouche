@@ -14,7 +14,7 @@ $ ls current_personal_projects/
 
 $ cat skills.txt
 Programming: Python, Java, SQL, C, OCaml, Rust
-Frameworks: PyTorch, sklearn, transformers, langchain, spark
+Frameworks: PyTorch, sklearn, transformers, peft, langchain, spark
 Tools: Jupyter, Git, Docker, Talend, Tableau, PowerBI, Kubernetes
 
 $ ./connect_with_me.sh
