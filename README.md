@@ -1,13 +1,13 @@
 
 ```bash
 $ whoami
-Ilan Aliouchouche, NLP enthusiast
+Ilan Aliouchouche, NLP enthusiast, from France
 
 $ cat current_role.txt
-Apprentice AI Research Scientist @ Dassault Systèmes.
+Apprentice AI Research Scientist @ Dassault Systèmes
 
 $ cat education.txt
-Data Science Student @ Paris-Saclay University (Orsay).
+Data Science Student @ Paris-Saclay University (Orsay)
 
 $ ls current_personal_projects/
 ""
