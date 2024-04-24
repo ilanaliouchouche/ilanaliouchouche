@@ -1,25 +1,26 @@
 ```bash
 $ whoami
-Ilan Aliouchouche, NLP enthusiast, from France
+Ilan Aliouchouche, NLP enthusiast based in France
 
 $ cat current_role.txt
 Apprentice AI Research Scientist @ Dassault Systèmes
+Focus: Automated Program Repair (APR) & Coding Assistant Systems
 
 $ cat education.txt
 Data Science Student @ Paris-Saclay University (Orsay)
 
 $ ls current_personal_projects/
-Quickdraw
-Automatic exam rating
+- Quickdraw
+- LazyTeacher
 
 $ cat skills.txt
-Programming: Python, Java, SQL, C, OCaml, Rust
-Frameworks: PyTorch, sklearn, transformers, peft, optimum, langchain, spark
-Tools: Jupyter, Git, Docker, Talend, Tableau, PowerBI, Kubernetes
+- Programming: Python, Java, SQL, C, OCaml, Rust
+- Frameworks: PyTorch, sklearn, transformers, peft, optimum, langchain, spark
+- Tools: Jupyter, Git, Docker, Talend, Tableau, PowerBI, Kubernetes
 
 $ ./connect_with_me.sh
-LinkedIn: https://www.linkedin.com/in/ilan-aliouchouche-752722277
-Email: ilan.aliouchouche@universite-paris-saclay.fr⠀⠀⠀⠀⠀
+- LinkedIn: https://www.linkedin.com/in/ilan-aliouchouche-752722277
+- Email: <FirstName>.<LastName>@universite-paris-saclay.fr⠀⠀⠀⠀⠀
 ```
 
 <p align="left">
