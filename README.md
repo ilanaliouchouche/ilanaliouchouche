@@ -20,7 +20,7 @@ $ cat skills.txt
 
 $ ./connect_with_me.sh
 - LinkedIn: https://www.linkedin.com/in/ilan-aliouchouche-752722277
-- Email: <FirstName>.<LastName>@universite-paris-saclay.fr⠀⠀⠀⠀⠀
+- Email: "${FIRST_NAME,,}.${LAST_NAME,,}@@universite-paris-saclay.fr"⠀⠀⠀⠀⠀
 ```
 
 <p align="left">
