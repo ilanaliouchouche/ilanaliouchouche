@@ -1,6 +1,6 @@
 ```bash
 $ whoami
-Ilan Aliouchouche, NLP enthusiast based in France
+Ilan Aliouchouche, student based in France
 
 $ cat current_role.txt
 Apprentice AI Research Scientist @ Dassault Systèmes
