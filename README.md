@@ -16,7 +16,7 @@ $ ls current_personal_projects/
 $ cat skills.txt
 - Programming: Python, Java, SQL, C, OCaml, Rust
 - Frameworks: PyTorch, sklearn, transformers, peft, optimum, langchain, spark
-- Tools: Jupyter, Git, Docker, Talend, Tableau, PowerBI, Kubernetes
+- Tools: Git, Docker, Talend, Tableau, PowerBI, Kubernetes
 
 $ ./connect_with_me.sh
 - LinkedIn: https://www.linkedin.com/in/ilan-aliouchouche-752722277
