@@ -11,7 +11,6 @@ Data Science Student @ Paris-Saclay University (Orsay)
 
 $ ls current_personal_projects/
 - Quickdraw
-- LazyTeacher
 
 $ cat skills.txt
 - Programming: Python, Java, SQL, C, OCaml, Rust
