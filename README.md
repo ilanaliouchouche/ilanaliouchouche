@@ -9,8 +9,8 @@ Focus: Automated Program Repair (APR) & Coding Assistant Systems
 $ cat education.txt
 Data Science Student @ Paris-Saclay University (Orsay)
 
-$ ls current_personal_projects/
-- Quickdraw
+$ ls current_personal_projects
+- Automatic Driven Unit Tests with Large Languages Models
 
 $ cat skills.txt
 - Programming: Python, Java, SQL, C, OCaml, Rust
