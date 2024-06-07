@@ -9,11 +9,12 @@ Focus: Automated Program Repair (APR) & Coding Assistant Systems
 $ cat education.txt
 Data Science Student @ Paris-Saclay University (Orsay)
 
-$ ls current_personal_projects
+$ ls current_projects
 - Automatic Driven Unit Tests with Large Language Models
+- Social Media Content Filtering Tool
 
 $ cat skills.txt
-- Programming: Python, Java, SQL, C, OCaml, Rust
+- Programming: Python, Java, SQL, C, OCaml, Rust, Julia
 - Frameworks: PyTorch, sklearn, transformers, peft, optimum, langchain, spark
 - Tools: Git, Docker, Talend, Tableau, PowerBI, Kubernetes
 
