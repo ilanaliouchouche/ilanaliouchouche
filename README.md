@@ -10,7 +10,7 @@ $ cat education.txt
 Data Science Student @ Paris-Saclay University (Orsay)
 
 $ ls current_projects
-- Automatic Driven Unit Tests with Large Language Models
+- Code Generation Enhanced By Behavior Driven Development
 - Social Media Content Filtering Tool
 
 $ cat skills.txt
