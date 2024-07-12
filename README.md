@@ -1,21 +1,21 @@
 ```bash
 $ whoami
-Ilan Aliouchouche, student based in France
+- Ilan Aliouchouche, student based in France
 
-$ cat current_role.txt
-Apprentice AI Research Scientist @ Dassault Systèmes
-Focus: Automated Program Repair (APR) & Coding Assistant Systems
+$ cat current_x_past_roles.txt
+- Now: None
+- 2023-2024: Apprentice AI Research Scientist @ Dassault Systèmes
+    Focus: Automated Program Repair (APR) & Coding Assistant Systems
 
 $ cat education.txt
-Data Science Student @ Paris-Saclay University (Orsay)
+- AI Student @ Université Paris-Saclay (Orsay)
 
 $ ls current_projects
 - Code Generation Enhanced By Behavior Driven Development
-- Social Media Content Filtering Tool
 
 $ cat skills.txt
 - Programming: Python, Java, SQL, C, OCaml, Rust, Julia
-- Frameworks: PyTorch, sklearn, transformers, peft, optimum, langchain, spark
+- Frameworks: torch, jax, sklearn, transformers, peft, optimum, langchain, spark
 - Tools: Git, Docker, Talend, Tableau, PowerBI, Kubernetes
 
 $ ./connect_with_me.sh
@@ -24,8 +24,8 @@ $ ./connect_with_me.sh
 ```
 
 <p align="left">
-    <img src="3ds.png" alt="Image Description 1" width="5%" />
-    <img src="paris-saclay.png" alt="Image Description 2" width="5%" />
-    <img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif" alt="GIF Description" width="5%" />
-    <img src="https://i.gifer.com/origin/4b/4b55a5c5f95757c8d56c089051fa21f7_w200.gif" alt="GIF Description" width="7%" />
+    <img src="paris-saclay.png" alt="univ" width="57" />
+    <img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif" alt="r2" width="5%" />
+    <img src="https://i.gifer.com/origin/4b/4b55a5c5f95757c8d56c089051fa21f7_w200.gif" alt="nrt" width="7%" />
+    <img src="https://media.tenor.com/U4f1c71-YVMAAAAM/richtofen-summoning-key.gif" alt="nrt" width="7%" />
 </p>
