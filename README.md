@@ -24,7 +24,7 @@ $ ./connect_with_me.sh
 ```
 
 <p align="left">
-    <img src="paris-saclay.png" alt="univ" width="57" />
+    <img src="paris-saclay.png" alt="univ" width="7%" />
     <img src="https://66.media.tumblr.com/tumblr_macx4vgB5f1rfjowdo1_500.gif" alt="r2" width="5%" />
     <img src="https://i.gifer.com/origin/4b/4b55a5c5f95757c8d56c089051fa21f7_w200.gif" alt="nrt" width="7%" />
     <img src="https://media.tenor.com/U4f1c71-YVMAAAAM/richtofen-summoning-key.gif" alt="nrt" width="7%" />
