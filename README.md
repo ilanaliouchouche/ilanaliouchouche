@@ -12,7 +12,6 @@ $ cat education.txt
 
 $ ls current_projects
 - Code Generation Enhanced By Behavior Driven Development
-- AI-Driven Legal Tool in collaboration with LIASD Laboratory & a British law firm
 
 $ cat skills.txt
 - Programming: Python, Java, SQL, C, OCaml, Rust, Julia
