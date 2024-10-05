@@ -11,7 +11,7 @@ $ cat education.txt
 - AI Student @ Université Paris-Saclay (Orsay)
 
 $ ls current_projects
-- Code Generation Enhanced By Behavior Driven Development
+
 
 $ cat skills.txt
 - Programming: Python, Java, SQL, C, OCaml, Rust, Julia
