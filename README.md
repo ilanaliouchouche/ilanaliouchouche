@@ -10,8 +10,8 @@ $ cat current_x_past_roles.txt
 $ cat education.txt
 - AI Student @ Université Paris-Saclay (Orsay)
 
-$ ls current_projects
-
+$ ls current_project
+- Profitable-Path-Detection-in-Currency-Graphss
 
 $ cat skills.txt
 - Programming: Python, Java, SQL, C, OCaml, Rust, Julia
