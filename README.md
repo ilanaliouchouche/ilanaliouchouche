@@ -14,8 +14,8 @@ $ ls current_project
 - Profitable-Path-Detection-in-Currency-Graphs
 
 $ cat skills.txt
-- Programming: Python, Java, SQL, C, OCaml, Rust, Julia
-- Frameworks: torch, jax, sklearn, transformers, peft, optimum, langchain, spark
+- Programming: Python, Java, SQL, C/C++, OCaml
+- Frameworks: torch, jax, sklearn, transformers, peft, optimum, langchain
 - Tools: Git, Docker, Talend, Tableau, PowerBI, Kubernetes
 
 $ ./connect_with_me.sh
