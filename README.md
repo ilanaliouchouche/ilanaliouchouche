@@ -3,7 +3,7 @@ $ whoami
 - Ilan Aliouchouche, student based in France
 
 $ cat current_x_past_roles.txt
-- Now: None
+- Now: BioML Intern @ LISN ("Travail d'Etudes et de Recherche")
 - 2023-2024: Apprentice AI Research Scientist @ Dassault Systèmes
     Focus: Automated Program Repair (APR) & Coding Assistant Systems
 
@@ -11,7 +11,7 @@ $ cat education.txt
 - AI Student @ Université Paris-Saclay (Orsay)
 
 $ ls current_project
-- Profitable-Path-Detection-in-Currency-Graphs
+- None
 
 $ cat skills.txt
 - Programming: Python, Java, SQL, C/C++, OCaml
