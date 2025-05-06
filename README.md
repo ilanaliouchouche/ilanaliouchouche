@@ -3,7 +3,8 @@ $ whoami
 - Ilan Aliouchouche, student based in France
 
 $ cat current_x_past_roles.txt
-- Now: BioML Intern @ LISN ("Travail d'Etudes et de Recherche")
+- 2025: BioML Intern @ LISN
+    Focus: SSMs for Local Ancestry Inference
 - 2023-2024: Apprentice AI Research Scientist @ Dassault Systèmes
     Focus: Automated Program Repair (APR) & Coding Assistant Systems
 
@@ -14,9 +15,8 @@ $ ls current_project
 - None
 
 $ cat skills.txt
-- Programming: Python, Java, SQL, C/C++, OCaml
-- Frameworks: torch, jax, sklearn, transformers, peft, optimum, langchain
-- Tools: Git, Docker, Talend, Tableau, PowerBI, Kubernetes
+- Programming: Python, C, C++, C#, Rust
+- Frameworks: torch, jax, cuda
 
 $ ./connect_with_me.sh
 - LinkedIn: https://www.linkedin.com/in/ilan-aliouchouche-752722277
