@@ -1,6 +1,6 @@
 ```bash
 $ whoami
-- Ilan Aliouchouche, student based in France
+- Ilan Aliouchouche, French student based in Paris
 
 $ cat current_x_past_roles.txt
 - 2025: BioML Intern @ LISN
@@ -9,10 +9,14 @@ $ cat current_x_past_roles.txt
     Focus: Automated Program Repair (APR) & Coding Assistant Systems
 
 $ cat education.txt
-- AI Student @ Université Paris-Saclay (Orsay)
+- AI MSc Student @ Université Paris-Saclay (Orsay)
 
-$ ls current_project
-- None
+$ cat interests.txt
+- Sequence Modelling
+- Bayesian Deep Learning
+- Information Retrieval/Recommendation Systems
+- Deep Learning in practice
+- ...
 
 $ cat skills.txt
 - Programming: Python, C, C++, C#, Rust
