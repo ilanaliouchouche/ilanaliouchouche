@@ -19,7 +19,7 @@ $ cat interests.txt
 - ...
 
 $ cat skills.txt
-- Programming: Python, C, C++, C#, Rust
+- Programming: Python, C, C++, C#, Julia, Rust
 - Frameworks: torch, jax, cuda
 
 $ ./connect_with_me.sh
