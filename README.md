@@ -5,21 +5,20 @@ $ whoami
 $ cat current_x_past_roles.txt
 - 2025: BioML Intern @ LISN
     Focus: SSMs for Local Ancestry Inference
-- 2023-2024: Apprentice AI Research Scientist @ Dassault Systèmes
+- 2023-2024: Apprentice AI Scientist @ Dassault Systèmes
     Focus: Automated Program Repair (APR) & Coding Assistant Systems
 
 $ cat education.txt
-- AI MSc Student @ Université Paris-Saclay (Orsay)
+- MVA (Maths, Vision, Learning) MSc Student @ École Normale Supérieure Paris-Saclay
 
 $ cat interests.txt
 - Sequence Modelling
 - Bayesian Deep Learning
 - Information Retrieval/Recommendation Systems
-- Deep Learning in practice
 - ...
 
 $ cat skills.txt
-- Programming: Python, C, C++, C#, Julia, Rust
+- Programming: Python, C, C++
 - Frameworks: torch, jax, cuda
 
 $ ./connect_with_me.sh
