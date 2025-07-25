@@ -12,7 +12,7 @@ $ cat education.txt
 - MVA (Maths, Vision, Learning) MSc Student @ École Normale Supérieure Paris-Saclay
 
 $ cat interests.txt
-- Sequence Modelling
+- Sequence Modeling
 - Bayesian Deep Learning
 - Information Retrieval/Recommendation Systems
 - ...
