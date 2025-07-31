@@ -9,7 +9,7 @@ $ cat current_x_past_roles.txt
 - 2025: BioML Intern @ LISN
     Focus: Structured SSMs for Local Ancestry Inference and Artificial Genoms
 - 2023-2024: Apprentice AI Scientist @ Dassault Systèmes
-    Focus: Automated Program Repair (APR) & Safe Coding Assistant Systems
+    Focus: Automated Program Repair & Safe Coding Assistant Systems
 
 $ cat interests.txt
 - Sequence Modeling
