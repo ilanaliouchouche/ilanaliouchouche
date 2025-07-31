@@ -1,15 +1,15 @@
 ```bash
 $ whoami
-- Ilan Aliouchouche, French student based in Paris
-
-$ cat current_x_past_roles.txt
-- 2025: BioML Intern @ LISN
-    Focus: SSMs for Local Ancestry Inference
-- 2023-2024: Apprentice AI Scientist @ Dassault Systèmes
-    Focus: Automated Program Repair (APR) & Coding Assistant Systems
+- Ilan Aliouchouche, 23, French student based in Paris
 
 $ cat education.txt
 - MVA (Maths, Vision, Learning) MSc Student @ École Normale Supérieure Paris-Saclay
+
+$ cat current_x_past_roles.txt
+- 2025: BioML Intern @ LISN
+    Focus: Structured SSMs for Local Ancestry Inference and Artificial Genoms
+- 2023-2024: Apprentice AI Scientist @ Dassault Systèmes
+    Focus: Automated Program Repair (APR) & Safe Coding Assistant Systems
 
 $ cat interests.txt
 - Sequence Modeling
