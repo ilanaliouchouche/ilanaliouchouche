@@ -11,11 +11,11 @@ $ cat current_x_past_roles.txt
 - 2023-2024: Apprentice AI Scientist @ Dassault Systèmes
     Focus: Automated Program Repair & Safe Coding Assistant Systems
 
-$ cat interests.txt
+$ cat current_interests.txt
+- Generative Modeling
+- Geometric Deep Learning
 - Sequence Modeling
 - Bayesian Deep Learning
-- Information Retrieval/Recommendation Systems
-- ...
 
 $ cat skills.txt
 - Programming: Python, C, C++
