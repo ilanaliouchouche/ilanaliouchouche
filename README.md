@@ -1,7 +1,10 @@
-### Curious about Transport-base Generative Modeling, Geometry Processing, 3D modeling, Geometric Machine Learning (in the sens ML on meshes, 3DPCs)...
+# Interests
 
-### I use mostly Python, C++ and sometimes Javascript
+---
 
+### (Currently) Interested in transport-based generative modeling, geometry processing, 3D modeling, and geometric machine learning (especially ML on meshes, 3DPCs etc.)
 
+### I mainly use Python, C++, and sometimes JavaScript, Julia
 
-
+---
+#### mail: firstname.lastnamae@ens-paris-saclay.fr
