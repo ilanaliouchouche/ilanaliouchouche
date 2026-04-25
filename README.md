@@ -7,4 +7,4 @@
 ### I mainly use Python, C++, and sometimes JavaScript, Julia
 
 ---
-#### mail: firstname.lastnamae@ens-paris-saclay.fr
+#### mail: firstname.lastname@ens-paris-saclay.fr
