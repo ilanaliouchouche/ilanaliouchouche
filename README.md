@@ -2,7 +2,7 @@
 
 ---
 
-### (Currently) Interested in transport-based generative modeling, geometry processing, 3D modeling, and geometric machine learning (especially ML on meshes, 3DPCs etc.)
+### (Currently) Interested in transport-based generative modeling, geometry processing, 3DPC modeling, and geometric machine learning (especially ML on meshes, 3DPCs etc.)
 
 ### I mainly use Python, C++, and sometimes JavaScript, Julia
 
